@@ -91,4 +91,11 @@ int main()
     delete pSoap3;  
     return 0;  
 }  
+/*
+运行结果：
+SFJ Soap!
+XSL Soap!
+NAS Soap!
+*/
+
 
